@@ -35,4 +35,12 @@
         }
       }
     });
+
+    // Clear button event listener // 
+    clear.addEventListener('click', function (){
+      screen.value = '';
+    
+  
+    })
+    
 })();
