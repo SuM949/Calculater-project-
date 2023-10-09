@@ -69,3 +69,13 @@ button{
 .btn-clear{
     background: red;
 } 
+
+.calculator {
+    width: 450px;
+    height: 550px;
+    box-shadow: 4px 4px 30px rgb(0, 0, 0, 0.3);
+    border-bottom: 12px;
+    background: #22252d;
+    overflow: hidden;
+    border-radius: 15px; /* Adjust the value to control the curvature */
+}
